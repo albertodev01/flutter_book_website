@@ -1,0 +1,16 @@
+name: flutter_book_website
+description: An HTTP server for the "Flutter Complete Reference 2" book website.
+version: 1.0.0
+homepage: https://fluttercompletereference.com
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  args: ^2.4.0
+  shelf: ^1.4.0
+  shelf_static: ^1.1.1
+
+dev_dependencies:
+  path: ^1.8.3
+  test: ^1.24.2
