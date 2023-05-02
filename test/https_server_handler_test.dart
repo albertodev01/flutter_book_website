@@ -7,7 +7,7 @@ import 'package:test/test.dart';
 void main() {
   late HttpServer server;
   final ip = InternetAddress.loopbackIPv4;
-  const port = 80;
+  const port = 51643;
 
   setUpAll(() async {
     server = await serve(httpsServerHandler, ip, port);
