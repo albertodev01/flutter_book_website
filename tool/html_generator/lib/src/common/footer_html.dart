@@ -12,7 +12,7 @@ String footerHtml(int selectedPageIndex) => '''
     <footer>
         <div class="footer-links">
             <a href="mailto:fluttercompletereference@gmail.com"><img src="/images/svg/email.svg" width="24" height="24" alt="Send us an email"></a>
-            <a href="https://github.com/albertodev01/flutter_book_examples/"><img src="/images/svg/github.svg" width="24" height="24" alt="GitHub logo"></a>
+            <a href="https://github.com/albertodev01/flutter_book_website/"><img src="/images/svg/github.svg" width="24" height="24" alt="GitHub logo"></a>
             <a href="https://twitter.com/flutter_book"><img src="/images/svg/twitter.svg" width="24" height="24" alt="Twitter logo"></a>
         </div>
         <p>This website and the book are not official Google products. No affiliations are involved.</p>

@@ -1,4 +1,4 @@
-/// A static HTML files generator for the "Flutter Complete Reference 2"
+/// A static HTML files generator for the "Flutter Complete Reference 2.0"
 /// website.
 library html_generator;
 

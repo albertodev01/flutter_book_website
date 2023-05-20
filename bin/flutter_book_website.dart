@@ -19,5 +19,6 @@ Future<void> main(List<String> arguments) async {
     serverAddress,
     443,
     securityContext: buildSecurityContextFromArgs(arguments),
+    poweredByHeader: 'Dart',
   );
 }

@@ -148,7 +148,6 @@ h2 {
 .features-home img {
 	padding: 10px;
 	border-radius: 10px;
-	background-color: #FFF;
 	margin-bottom: 20px;
 	box-shadow: 0px 1.2px 2.4px rgba(0, 0, 0, 0.085), 0px 7px 19px rgba(0, 0, 0, 0.15);
 }
@@ -232,7 +231,7 @@ h2 {
 
 .author-section {
 	width: 700px;
-	margin: 60px auto 60px auto;
+	margin: 60px auto 90px auto;
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
@@ -331,27 +330,20 @@ h2 {
 }
 
 .preview {
-	width: fit-content;
-  	background-color: #16b9fd;
-  	margin: 60px auto 0 auto;
-  	font-family: Roboto;
-  	font-size: 1em;
-	padding: 10px 20px;
-  	border-radius: 10px;
-  	transition: all .3s ease;
-	box-shadow: -1px 0 20px -1px rgba(0,0,0,.4);
+	width: 85%;
+  	margin: 20px auto 0px auto;
+  	display: flex;
+  	align-items: center;
+  	justify-content: space-around;
 }
 
-.preview:hover {
-	background-color: #167afd;
+.preview img {
+	border-radius: 10px;
+	box-shadow: 0px 1.2px 2.4px rgba(0, 0, 0, 0.085), 0px 7px 19px rgba(0, 0, 0, 0.15);
 }
 
-.preview a {
-	display: inline-block;
-    width: 100%;
-    height: 100%;
-    text-decoration: none;
-    color: #FFF;
+.extra-space-overview-book {
+	margin-bottom: 80px;
 }
 
 @media only screen and (max-width: 1050px) {
@@ -380,7 +372,6 @@ h2 {
 
 	.author-section {
 		width: 90%;
-		margin: 60px auto;		
 		flex-direction: column;
 	}
 

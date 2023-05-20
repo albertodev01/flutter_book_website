@@ -22,72 +22,85 @@ const _buyHtmlPage = '''
 
     <div class="overview-book-part">
         <h1>Amazon</h1>
-        <h2>Both digital (Kindle, with colors) and paper (black and white) versions are available in various stores:</h2>
+        <h2>Digital (Kindle, with colors) or paperback (black and white) versions are available in various stores:</h2>
 
         <div class="chapters-container">
             <div class="region">
-                <img src="images/svg/flags/australia.svg" height="30" alt="The australian flag">
-                <a href="#">amazon.com.au</a>
+                <img src="images/svg/flags/au.svg" height="30" alt="The australian flag">
+                <a href="https://www.amazon.com.au/dp/B0C5P7VXBL">amazon.com.au</a>
             </div>
             <div class="region">
-                <img src="images/svg/flags/brazil.svg" height="30" alt="The brazilian flag">
-                <a href="#">amazon.com.br</a>
+                <img src="images/svg/flags/br.svg" height="30" alt="The brazilian flag">
+                <a href="https://www.amazon.com.br/dp/B0C5QCFGPR">amazon.com.br</a>
             </div>
             <div class="region">
-                <img src="images/svg/flags/canada.svg" height="30" alt="The canadian flag">
-                <a href="#">amazon.ca</a>
+                <img src="images/svg/flags/ca.svg" height="30" alt="The canadian flag">
+                <a href="https://www.amazon.ca/dp/B0C5QCFGPR">amazon.ca</a>
             </div>
             <div class="region">
-                <img src="images/svg/flags/france.svg" height="30" alt="The french flag">
-                <a href="#">amazon.fr</a>
+                <img src="images/svg/flags/fr.svg" height="30" alt="The french flag">
+                <a href="https://www.amazon.fr/dp/B0C5P7VXBL">amazon.fr</a>
             </div>
             <div class="region">
-                <img src="images/svg/flags/germany.svg" height="30" alt="The german flag">
-                <a href="#">amazon.de</a>
+                <img src="images/svg/flags/de.svg" height="30" alt="The german flag">
+                <a href="https://www.amazon.de/dp/B0C5QCFGPR">amazon.de</a>
             </div>
             <div class="region">
-                <img src="images/svg/flags/india.svg" height="30" alt="The indian flag">
-                <a href="#">amazon.in</a>
+                <img src="images/svg/flags/in.svg" height="30" alt="The indian flag">
+                <a href="https://www.amazon.in/dp/B0C5QCFGPR">amazon.in</a>
             </div>
             <div class="region">
-                <img src="images/svg/flags/italy.svg" height="30" alt="The italian flag">
-                <a href="#">amazon.it</a>
+                <img src="images/svg/flags/it.svg" height="30" alt="The italian flag">
+                <a href="https://www.amazon.it/dp/B0C5P7VXBL">amazon.it</a>
             </div>
             <div class="region">
-                <img src="images/svg/flags/japan.svg" height="30" alt="The japanese flag">
-                <a href="#">amazon.jp</a>
+                <img src="images/svg/flags/jp.svg" height="30" alt="The japanese flag">
+                <a href="https://www.amazon.co.jp/dp/B0C5QCFGPR">amazon.jp</a>
             </div>
             <div class="region">
-                <img src="images/svg/flags/mexico.svg" height="30" alt="The mexican flag">
-                <a href="#">amazon.com.mx</a>
+                <img src="images/svg/flags/mx.svg" height="30" alt="The mexican flag">
+                <a href="https://www.amazon.com.mx/dp/B0C5QCFGPR">amazon.com.mx</a>
             </div>
             <div class="region">
-                <img src="images/svg/flags/netherlands.svg" height="30" alt="The dutch flag">
-                <a href="#">amazon.nl</a>
+                <img src="images/svg/flags/nl.svg" height="30" alt="The dutch flag">
+                <a href="https://www.amazon.nl/dp/B0C5P7VXBL">amazon.nl</a>
             </div>
             <div class="region">
-                <img src="images/svg/flags/spain.svg" height="30" alt="The spanish flag">
-                <a href="#">amazon.es</a>
+                <img src="images/svg/flags/es.svg" height="30" alt="The spanish flag">
+                <a href="https://www.amazon.es/dp/B0C5P7VXBL">amazon.es</a>
             </div>
             <div class="region">
-                <img src="images/svg/flags/uk.svg" height="30" alt="The british flag">
-                <a href="#">amazon.co.uk</a>
+                <img src="images/svg/flags/gn.svg" height="30" alt="The british flag">
+                <a href="https://www.amazon.co.uk/dp/B0C5P7VXBL">amazon.co.uk</a>
             </div>
             <div class="region">
-                <img src="images/svg/flags/usa.svg" height="30" alt="The american flag">
-                <a href="#">amazon.com</a>
+                <img src="images/svg/flags/us.svg" height="30" alt="The american flag">
+                <a href="https://www.amazon.com/dp/B0C5QCFGPR">amazon.com</a>
+            </div>
+            <div class="region">
+                <img src="images/svg/flags/se.svg" height="30" alt="The american flag">
+                <a href="https://www.amazon.se/dp/B0C5P7VXBL">amazon.se</a>
+            </div>
+            <div class="region">
+                <img src="images/svg/flags/pl.svg" height="30" alt="The american flag">
+                <a href="https://www.amazon.pl/dp/B0C5P7VXBL">amazon.pl</a>
             </div>
         </div>
     </div>
 
     <div class="overview-book-part">
-        <h1>Book Depository</h1>
-        <h2>It's an online book seller that offers free shipping to over 160 countries worldwide. You can buy our book from the Book Depository website at <a href="#" class="url-default">this link</a>.</h2>
+        <h1>Google Play Books</h1>
+        <h2>Coming soon... 👀</h2>
+    </div>
+    
+    <div class="overview-book-part">
+        <h1>Barnes & Noble</h1>
+        <h2>Coming soon... 👀</h2>
     </div>
 
     <div class="overview-book-part">
         <h1>Other</h1>
-        <h2>If you can't get our book from Amazon or Book Depository, <a href="" class="url-default">send us</a> an email to receive support 🚀</h2>
+        <h2>If you can't get our book from the above sellers, <a href="mailto:fluttercompletereference@gmail.com" class="url-default">send us</a> an email to receive support 🚀</h2>
     </div>
 
     <div class="spacer-10-pixels-height"></div>

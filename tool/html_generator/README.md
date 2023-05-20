@@ -1,4 +1,4 @@
-## html_validator
+## html_generator
 
 This command-line application generates static HTML pages for the [fluttercompletereference.com](https://fluttercompletereference.com/) website. To run the program, use the `dart run` command from the project root.
 

@@ -1,0 +1,31 @@
+{
+    "name": "Flutter Complete Reference 2.0",
+    "short_name": "FCR 2.0",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#FFF",
+    "description": "Website of the Flutter Complete Reference 2.0 book",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "images/favicon_16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "images/favicon_32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "images/favicon_96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "images/favicon_192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+    ]
+}

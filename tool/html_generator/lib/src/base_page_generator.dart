@@ -9,7 +9,7 @@ import 'package:path/path.dart' as path;
 ///
 /// {@template base_page_generator.generateHTML}
 /// The [generateHTML] method creates a `generated/` folder, if it doesn't
-/// already exist, and generates the HTML pages in there.
+/// already exist, and generates the HTML pages there.
 ///
 /// The default name is `generated` but you can set a different name or path.
 /// {@endtemplate}
@@ -23,7 +23,7 @@ abstract base class BasePageGenerator {
   /// The actual HTML contents of the page.
   final String pageContents;
 
-  /// The order of the page in the navigation bar items list.
+  /// The page index in the navigation bar list.
   final int pageIndex;
 
   /// Creates a [BasePageGenerator] object.
