@@ -10,7 +10,7 @@ void main() {
     <meta name="keywords" content="Flutter Complete Reference 2, Flutter Book, Dart Book">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="The definitive reference book for Dart 3.0 and Flutter.">
+    <meta name="description" content="The definitive reference book for Dart and Flutter.">
     <meta name="author" content="Alberto Miola">
     <meta name="google-site-verification" content="o4mSLG8Q94yhenxMlyMWtIJ97Bvws6smxCmdDHtjNjg">
     <meta name="apple-mobile-web-app-title" content="Flutter Complete Reference 2">
@@ -20,12 +20,12 @@ void main() {
     <meta property="og:type" content="book">
     <meta property="og:url" content="https://fluttercompletereference.com/">
     <meta property="og:image" content="https://fluttercompletereference.com/images/logo.png">
-    <meta property="og:description" content="The definitive reference book for Dart 3.0 and Flutter.">
+    <meta property="og:description" content="The definitive reference book for Dart and Flutter.">
 
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@flutter_book">
     <meta name="twitter:title" content="Flutter Complete Reference 2">
-    <meta name="twitter:description" content="The definitive reference book for Dart 3.0 and Flutter.">
+    <meta name="twitter:description" content="The definitive reference book for Dart and Flutter.">
     <meta name="twitter:image" content="https://fluttercompletereference.com/images/logo.png">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
