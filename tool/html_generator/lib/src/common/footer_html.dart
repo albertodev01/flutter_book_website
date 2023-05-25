@@ -20,8 +20,8 @@ String footerHtml(int selectedPageIndex) => '''
     </footer>
 
     <div class="mobile-nav-bar">
-        <a href="/"><img src="images/svg/home-page.svg" width="36" height="36" alt="Home page icon" ${selectedPageIndex == 0 ? 'class="selected"' : ''}></a>
-        <a href="/overview.html"><img src="images/svg/magnifying-glass.svg" width="36" height="36" alt="Book overview icon" ${selectedPageIndex == 1 ? 'class="selected"' : ''}></a>
-        <a href="/buy.html"><img src="images/svg/shopping-cart.svg" width="36" height="36" alt="Buy book icon" ${selectedPageIndex == 2 ? 'class="selected"' : ''}></a>
+        <a href="/"><img src="/images/svg/home-page.svg" width="36" height="36" alt="Home page icon" ${selectedPageIndex == 0 ? 'class="selected"' : ''}></a>
+        <a href="/overview.html"><img src="/images/svg/magnifying-glass.svg" width="36" height="36" alt="Book overview icon" ${selectedPageIndex == 1 ? 'class="selected"' : ''}></a>
+        <a href="/buy.html"><img src="/images/svg/shopping-cart.svg" width="36" height="36" alt="Buy book icon" ${selectedPageIndex == 2 ? 'class="selected"' : ''}></a>
     </div>
 ''';

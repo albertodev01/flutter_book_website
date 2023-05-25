@@ -325,6 +325,10 @@ h2 {
 	border-radius: 8px;
 }
 
+.noradius {
+	border-radius: 0;
+}
+
 .spacer-10-pixels-height {
 	height: 10px;
 }

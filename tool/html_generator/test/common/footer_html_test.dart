@@ -18,9 +18,9 @@ void main() {
     </footer>
 
     <div class="mobile-nav-bar">
-        <a href="/"><img src="images/svg/home-page.svg" width="36" height="36" alt="Home page icon" class="selected"></a>
-        <a href="/overview.html"><img src="images/svg/magnifying-glass.svg" width="36" height="36" alt="Book overview icon" ></a>
-        <a href="/buy.html"><img src="images/svg/shopping-cart.svg" width="36" height="36" alt="Buy book icon" ></a>
+        <a href="/"><img src="/images/svg/home-page.svg" width="36" height="36" alt="Home page icon" class="selected"></a>
+        <a href="/overview.html"><img src="/images/svg/magnifying-glass.svg" width="36" height="36" alt="Book overview icon" ></a>
+        <a href="/buy.html"><img src="/images/svg/shopping-cart.svg" width="36" height="36" alt="Buy book icon" ></a>
     </div>
 '''),
       );
@@ -41,9 +41,9 @@ void main() {
     </footer>
 
     <div class="mobile-nav-bar">
-        <a href="/"><img src="images/svg/home-page.svg" width="36" height="36" alt="Home page icon" ></a>
-        <a href="/overview.html"><img src="images/svg/magnifying-glass.svg" width="36" height="36" alt="Book overview icon" class="selected"></a>
-        <a href="/buy.html"><img src="images/svg/shopping-cart.svg" width="36" height="36" alt="Buy book icon" ></a>
+        <a href="/"><img src="/images/svg/home-page.svg" width="36" height="36" alt="Home page icon" ></a>
+        <a href="/overview.html"><img src="/images/svg/magnifying-glass.svg" width="36" height="36" alt="Book overview icon" class="selected"></a>
+        <a href="/buy.html"><img src="/images/svg/shopping-cart.svg" width="36" height="36" alt="Buy book icon" ></a>
     </div>
 '''),
       );
@@ -64,9 +64,9 @@ void main() {
     </footer>
 
     <div class="mobile-nav-bar">
-        <a href="/"><img src="images/svg/home-page.svg" width="36" height="36" alt="Home page icon" ></a>
-        <a href="/overview.html"><img src="images/svg/magnifying-glass.svg" width="36" height="36" alt="Book overview icon" ></a>
-        <a href="/buy.html"><img src="images/svg/shopping-cart.svg" width="36" height="36" alt="Buy book icon" class="selected"></a>
+        <a href="/"><img src="/images/svg/home-page.svg" width="36" height="36" alt="Home page icon" ></a>
+        <a href="/overview.html"><img src="/images/svg/magnifying-glass.svg" width="36" height="36" alt="Book overview icon" ></a>
+        <a href="/buy.html"><img src="/images/svg/shopping-cart.svg" width="36" height="36" alt="Buy book icon" class="selected"></a>
     </div>
 '''),
       );
