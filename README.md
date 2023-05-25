@@ -8,7 +8,7 @@
 
 ---
 
-This repository contains the source code of the <a href="https://fluttercompletereference.com/">fluttercompletereference.com/</a> website. The server was created using Dart's official <a href="https://pub.dev/packages/shelf">shelf</a> package. The most relevant parts of this CLI application are:
+This repository contains the source code of the <a href="https://fluttercompletereference.com/">fluttercompletereference.com</a> website. The server was created using Dart's official <a href="https://pub.dev/packages/shelf">shelf</a> package. The most relevant parts of this CLI application are:
 
  - The `bin` folder contains the `main()` entry-point that starts the server. Helper methods and configurations of the HTTP/HTTPS servers are inside `lib`.
  
@@ -16,4 +16,4 @@ This repository contains the source code of the <a href="https://fluttercomplete
 
  - The `test` folder has some certificates that we **only** use for unit tests. Those `server.key` and `server.pem` files are **not** used in the production server.
  
-To see how we generate the pages and validate the HTML code, check the README file in `tool` folder.
+To see how we generate the pages and validate the HTML code, check the [README.md](https://github.com/albertodev01/flutter_book_website/blob/main/tool/README.md) in the `tool` folder.
