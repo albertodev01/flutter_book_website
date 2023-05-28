@@ -95,11 +95,6 @@ const _buyHtmlPage = '''
             </div>
         </div>
     </div>
-    
-    <div class="overview-book-part">
-        <h1>Apple Books</h1>
-        <h2>Coming soon... 👀</h2>
-    </div>
 
     <div class="overview-book-part">
         <h1>Other</h1>
